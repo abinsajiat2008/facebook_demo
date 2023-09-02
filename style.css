@@ -1,0 +1,91 @@
+
+#fb_img{
+    width: 300px ;
+    margin-left: 450px;
+    margin-top: 200px;
+    
+}
+
+#upper_div{
+    background: #f0f2f5;
+    margin-top: -32px;
+    margin-left: -6px;
+    height: 700px;
+}
+
+
+
+#fb_p{
+    margin-left: 480px;
+    margin-top: -24px;
+    font-size: 26px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+
+
+#login_box{
+height: 310px;
+width: 350px;
+background-color: white;
+margin-left: 1050px;
+    margin-top: -220px;
+    border-radius: 25px;
+    text-align: center;
+
+}
+
+.box{
+    width: 295px;
+    border-radius: 5px;
+    height: 36px;
+    margin-top: 20px;
+    margin-left: 23px;
+}
+
+#sumbit{
+    background-color: #1877f2;
+    font-size: large;
+    color: white;
+}
+
+#fb_pass{
+    font-family: inherit;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+#link{
+    margin-top: 10px;
+}
+
+#fb_new{
+    width: 280px;
+    color: white;
+    background-color: lawngreen;
+    height: 35px;
+    font-size: medium;
+    margin-top: 10px;
+}
+
+#lower_login{
+    margin-top: 10px;
+  
+    margin-left: 1057px;
+    
+
+
+}
+
+#login_side{
+    
+}
